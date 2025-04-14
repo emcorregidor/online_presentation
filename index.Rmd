@@ -141,6 +141,7 @@ This figure shows the % of YES responses per word type and group.
 ```{r}
 #| echo: false
 #| out-width: "75%"
+#| max-width: "100%"
 #| dpi: 400
 #| fig.align: "center"
 knitr::include_graphics(here("figs", "fig1.png"))
@@ -158,6 +159,7 @@ This is the figure for YES answers.
 ```{r}
 #| echo: false
 #| out-width: "75%"
+#| max-width: "100%"
 #| dpi: 400
 #| fig.align: "center"
 knitr::include_graphics(here("figs", "fig2.png"))
@@ -169,6 +171,7 @@ And this is the figure for NO answers.
 ```{r}
 #| echo: false
 #| out-width: "75%"
+#| max-width: "100%"
 #| dpi: 400
 #| fig.align: "center"
 knitr::include_graphics(here("figs", "fig3.png"))
@@ -180,6 +183,7 @@ The article starts this part by explaining the figure below. It illustrates the 
 ```{r}
 #| echo: false
 #| out-width: "75%"
+#| max-width: "100%"
 #| dpi: 400
 #| fig.align: "center"
 knitr::include_graphics(here("figs", "fig4.png"))
@@ -197,6 +201,7 @@ This is the figure included for the P200 results.
 ```{r}
 #| echo: false
 #| out-width: "75%"
+#| max-width: "100%"
 #| dpi: 400
 #| fig.align: "center"
 knitr::include_graphics(here("figs", "fig5.png"))
@@ -210,6 +215,7 @@ This is the figure included for the LPC results.
 ```{r}
 #| echo: false
 #| out-width: "75%"
+#| max-width: "100%"
 #| dpi: 400
 #| fig.align: "center"
 knitr::include_graphics(here("figs", "fig6.png"))
