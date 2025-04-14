@@ -10,7 +10,6 @@ output:
     css: ["hygge", "rutgers", "rutgers-fonts"]
     lib_dir: libs
     nature:
-      ratio: "16.9"
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
@@ -43,7 +42,7 @@ Their participants included:
 
 - 16 HC
 
-👀 The types of chronic pain patients is relevant for the results section.
+👀 The types of chronic pain patients is relevant to understand the results section.
 ---
 # Methods
 ## Self-Endorsement Task
@@ -51,11 +50,11 @@ Chronic pain patients and HC had to decide whether the word that appeared on the
 
 The words included could be:
 
-**Sensory pain descriptors:** *fearful, nauseating*
+**Sensory pain descriptors:** *fearful, nauseating*.
 
-**Affective pain descriptors:** *sharp, burning*
+**Affective pain descriptors:** *sharp, burning*.
 
-**Non-pain-related words** *beautiful, friendly*
+**Non-pain-related words** *beautiful, friendly*.
 ---
 # Methods
 ## EEG Recording
@@ -65,32 +64,32 @@ Brain activity was recorded using an low-density net, 32-channel system.
 ## Self-Report Measures
 Participants also completed written psychological questionnaires:
 
-- Spielberger State Anxiety Inventory
-- Beck Depression Inventory
-- McGrill Pain Questionnaire
-- West Haven-Yale Multidimensional Pain Inventory
-- Fibromyalgia Impact Questionnaire
-- Pain Axiety Symptoms Scale
-- Pain Vigilance and Awareness Questionnaire
+- Spielberger State Anxiety Inventory.
+- Beck Depression Inventory.
+- McGrill Pain Questionnaire.
+- West Haven-Yale Multidimensional Pain Inventory.
+- Fibromyalgia Impact Questionnaire.
+- Pain Axiety Symptoms Scale.
+- Pain Vigilance and Awareness Questionnaire.
 ---
 # Explanation of Behavioral Analysis
 The researchers obtained:
 
-- the percentage of "yes" and "no" answers
+- the percentage of "yes" and "no" answers.
 
-- the average RT
+- the average RT.
 
 for each word type and each participant.
 
-Then, they used a *Word* x *Response* x *Group* mixed-model repeated-measures analysis of variance (ANOVA)
+Then, they used a *Word* x *Response* x *Group* mixed-model repeated-measures analysis of variance (ANOVA).
 ---
 # Explanation of EEG Analysis
 EEG segments were analyzed with pre-processing procedures, which included:
 
-- averaging
-- filtering
-- artifacts detection
-- baseline correction
+- averaging.
+- filtering.
+- artifacts detection.
+- baseline correction.
 
 "ERP amplitudes were examined in a *Brain region* (frontal, central, centro-parietal, temporo-parietal,parietal and occipital) x *Hemisphere* (left versus right) x *Word* (sensory, unpleasant, pleasant words) x *Group*
 (FM, MSK, healthy controls) mixed-model repeated measures ANOVA."
@@ -116,13 +115,13 @@ Other statistical methods would provide different perspectives. Given what we ha
 # Results
 The results are divided in four sections:
 
-a) Clinical and sociodemographic characteristics
+a) Clinical and sociodemographic characteristics.
 
-b) Number of self-endorsed words
+b) Number of self-endorsed words.
 
-c) Reaction times to self-endorsed words
+c) Reaction times to self-endorsed words.
 
-d) Event-related potentials to self-endorsed words
+d) Event-related potentials to self-endorsed words.
 ---
 # Results
 ## Clinical and Sociodemographic Characteristics
